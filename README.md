@@ -27,21 +27,6 @@
 </div>
 
 
-
-
-<p>
-  - 👋 Hi, I’m Marcos Aurélio!
-- 🌱 I’m currently learning Java, SQL.
-- I'm a System Development student at SENAC.
-- 📫 How to reach me ...
-</p>
-
-- 👋 Hi, I’m Marcos Aurélio!
-- 🌱 I’m currently learning Java, SQL.
-- I'm a System Development student at SENAC.
-- 📫 How to reach me ...
-
-
 <!---
 marcosarl1/marcosarl1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
