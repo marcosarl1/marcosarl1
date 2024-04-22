@@ -1,15 +1,10 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-## Sobre mim
+## About me
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-## Minhas Skills
-
-**Aplicações e dados**
+## Stacks
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -19,7 +14,7 @@
 <br/>
 
 <a href="https://github.com/iuricode](https://github.com/marcosarl1" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosarl1&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
