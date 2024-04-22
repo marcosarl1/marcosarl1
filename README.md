@@ -13,6 +13,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<a href="https://github.com/marcosarl1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosarl1&theme=github_dark&show_icons=true" />
+</a>
 
 <br/>
 
@@ -22,9 +25,6 @@
     <a href="mailto:marcosajr11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<a href="https://github.com/marcosarl1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosarl1&theme=github_dark&show_icons=true" />
-</a>
 
 
 <!---
